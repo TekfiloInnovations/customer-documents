@@ -1,0 +1,19 @@
+AWS Account Information
+---------------------------
+Username: jimmy@karpgroup.com
+Password - Jimmy#2023
+
+Server Details
+---------------------
+DATABASE
+postgres
+KarpTekFiloDB#2023$
+
+FRontend EC2
+user: ubuntu
+passcode: KarpTekFiloApp#2023$!
+
+Backend-java EC2
+user: ubuntu
+passcode: KarpTekFiloService#2023$!
+
