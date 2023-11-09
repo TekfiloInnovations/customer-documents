@@ -1,0 +1,18 @@
+AWS Account Information
+---------------------------
+Username: Unirich
+Password - Unirich123*
+
+Server Details
+---------------------
+DATABASE
+postgres
+KarpTekFiloDB#2023$
+
+Frontend EC2
+user: ubuntu
+passcode: KarpTekFiloApp#2023$!
+
+Backend-java EC2
+user: ubuntu
+passcode: KarpTekFiloService#2023$!
