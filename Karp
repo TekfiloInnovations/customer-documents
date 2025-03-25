@@ -6,14 +6,17 @@ Password - Jimmy#2023
 Server Details
 ---------------------
 DATABASE
-postgres
-KarpTekFiloDB#2023$
+user: postgres
+IP : 13.229.134.30
+passcode: KarpTekFiloDB#2023$
 
 FRontend EC2
 user: ubuntu
+IP : 13.250.116.30
 passcode: KarpTekFiloApp#2023$!
 
 Backend-java EC2
 user: ubuntu
+IP : 54.254.85.187
 passcode: KarpTekFiloService#2023$!
 
